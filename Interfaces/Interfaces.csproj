@@ -47,6 +47,7 @@
     <Compile Include="FiguraBase.cs" />
     <Compile Include="ICalculador.cs" />
     <Compile Include="IFigura.cs" />
+    <Compile Include="IRenderizador.cs" />
     <Compile Include="Linea.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
